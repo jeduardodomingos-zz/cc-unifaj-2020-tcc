@@ -1,0 +1,105 @@
+[
+    {
+        "group":"names",
+        "values": [
+            "JOÃO COSTA",
+            "ANA CRISTINA",
+            "PABLO COSTA",
+            "AMAURI DA CUNHA JUNIOR",
+            "MARINALDO DA SILVA",
+            "SABRINA MARISTELA DA SILVA",
+            "FELIPE SILVEIRA",
+            "CALITON FELIPE",
+            "YGOR VEDOVATTO",
+            "RAFAEL GAZOLA",
+            "FELIPE FIGUEIREDO",
+            "FELIPE CORREA",
+            "SERGIO BUENO",
+            "MARINDALVA COSTA",
+            "JOÃO PEREIRA",
+            "JOSE ROBERTO SOUZA",
+            "MAGNOBALDO JOSÉ"
+        ]
+    },
+    {
+        "group":"address",
+        "values": [
+            "RUA RIO GRANDE DO SUL",
+            "RUA SANTA CATARINA",
+            "RUA JOSE SILVA",
+            "AVENIDA RIO GRANDE",
+            "ESTRADA DA CURVA",
+            "VICINAL 2204",
+            "ROD SP 340",
+            "RUA DEZ",
+            "RUA DOS ANJOS",
+            "RUA DAS FLORES",
+            "RUA DOS PARANAUES"
+        ]
+    },
+    {
+        "group":"city",
+        "values": [
+            {
+                "name": "SANTO ANTONIO DE POSSE",
+                "state": "SP"
+            },
+            {
+                "name": "JAGUARIUNA",
+                "state": "SP"
+            },
+            {
+                "name": "SAO PAULO",
+                "state": "SP"
+            },
+            {
+                "name": "RIO DE JANEIRO",
+                "state": "RJ"
+            },
+            {
+                "name": "BOITUVA",
+                "state": "SP"
+            },
+            {
+                "name": "LAGES",
+                "state": "PR"
+            },
+            {
+                "name": "CASCAVEL",
+                "state": "PR"
+            },
+            {
+                "name": "BLUMENAL",
+                "state": "SC"
+            },
+            {
+                "name": "LONDRINA",
+                "state": "PR"
+            },
+            {
+                "name": "LONDRINA",
+                "state": "PR"
+            },
+            {
+                "name": "LONDRINA",
+                "state": "PR"
+            },
+            {
+                "name": "BUENO BRANDÃO",
+                "state": "MG"
+            },
+            {
+                "name": "ARAPIRACA",
+                "state": "AL"
+            },
+            {
+                "name": "SALVADOR",
+                "state": "BA"
+            },
+            {
+                "name": "MANAUS",
+                "state": "AM"
+            }
+        ]
+    }
+]

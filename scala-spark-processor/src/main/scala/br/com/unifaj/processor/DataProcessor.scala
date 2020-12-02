@@ -26,7 +26,7 @@ object DataProcessor {
   }
 
   val hash = (value: String) => {
-    if(DriverLicenseValidator(value) && DocumentValidator(value)) {
+    if(DriverLicenseValidator(value) || DocumentValidator(value)) {
       Utils.md5(value)
     }
   }
